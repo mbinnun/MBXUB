@@ -10,8 +10,7 @@ https://github.com/mbinnun/MBXUB/releases/tag/V1.0
 
 # A "remasterable disto", is it really so easy?
 
-Yes, it is really so easy!<br>
-You can install the live system to you hard drive in less than 3 minutes, using only one command and without needing all the "wizards" on the way.<br>
+Yes, it is really so easy! You can install the live system to you hard drive in less than 3 minutes, using only one command and without needing all the "wizards" on the way.<br>
 After modifying the system in your hard drive - you can save it back as your own live system, in one command again.
 
 <b>Installation:</b><br>
