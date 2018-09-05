@@ -29,7 +29,7 @@ After modifying the system in your hard drive - you can save it back as your own
 5. After the squashfs file has been generated, open the MBXUB ISO file with "isomaster" (or winISO if you're using windows). In the /casper directory, replace the original filesystem.squashfs file with the newly generated one and save the ISO.
 6. There you go, you should now have a new ISO file with a live system that behaves exacly as the modified installed system does.
 
-# MBXUB is coming in 4 "flavors"
+# MBXUB is coming in four "flavors"
 
 <b>MBXUB Basic</b><br>
 Useful as a rescue CD/USB and also good for starting a fresh remaster project.
