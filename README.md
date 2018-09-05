@@ -25,7 +25,7 @@ After modifying the system in your hard drive - you can save it back as your own
 <b>Remaster:</b><br>
 1. After modifying the system that installed on your hard drive, boot the live system again.
 2. From the live system, type <b>./remaster.sh sda1 sda2</b> and change "sda1" to be the source partition where MBXUB is installed, and "sda2" to be the target partition where the filesystem.squashfs file will be generated.<br><br>
-<i>Note: the remaster command is able to run on both text mode and graphical mode.<br>The remaster process will create a temporary directory called "remasterd" on the target partition.<br>
+<i>Note: the remaster command is able to run on both text mode and graphical mode.<br>The remaster process will create a temporary directory called "remasterd" on the target partition.<br><br>
 5. After the squashfs file has been generated, open the MBXUB ISO file with "isomaster" (or winISO if you're using windows). In the /casper directory, replace the original filesystem.squashfs file with the newly generated one and save the ISO.
 6. There you go, you should now have a new ISO file with a live system that behaves exacly as the modified installed system does.
 
