@@ -41,7 +41,7 @@ Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvs
 
 <b>MBXUB VM</b><br>
 Intended to run virtual machines (even from the live system), and includes virtualzation software such as VirtualBox and VMware-Player.<br>
-Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0.iso
+Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-vm-en-v1.0.iso
 
 <b>MBXUB DEV</b><br>
 Intended for programming and development. Includes a lot of programming apps and compilers, such as: Eclipse, FPC, NodeJS, Atom, Android Studio and much more.<br>
