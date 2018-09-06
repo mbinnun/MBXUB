@@ -32,7 +32,7 @@ After modifying the system in your hard drive - you can save it back as your own
 # MBXUB is coming in four "flavors"
 
 <b>MBXUB Basic</b><br>
-Useful as a rescue CD/USB and also good for starting a fresh remaster project.
+Useful as a rescue CD/USB and also good for starting a fresh remaster project.<br>
 Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-basic-en-v1.0.iso
 
 <b>MBXUB TV/Streamer</b><br>
