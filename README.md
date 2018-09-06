@@ -23,7 +23,7 @@ After modifying the system in your hard drive - you can save it back as your own
 5. Reboot and take out the USB. MBXUB should be able to run from your hard drive now.
 
 <b>Remaster:</b><br>
-1. After modifying the system that installed on your hard drive, boot the live system again.
+1. After modifying the system that is installed on your hard drive, boot the live system again.
 2. From the live system, type <b>./remaster.sh sda1 sda2</b> and change "sda1" to be the source partition where the modified MBXUB is installed, and "sda2" to be the target partition where the filesystem.squashfs file will be generated.<br><br>
 <i>Note: the remaster command is able to run on both text mode and graphical mode.<br>The remaster process will create a temporary directory called "remasterd" on the target partition.</i><br><br>
 5. After the squashfs file has been generated, open the MBXUB ISO file with "isomaster" (or winISO if you're using windows). In the /casper directory, replace the original filesystem.squashfs file with the newly generated one and save the ISO.
@@ -50,7 +50,7 @@ Download link: <i>still being uploaded, will be prepared soon ...</i>
 # Known Issues
 
 <b>After running the restore script, booting the system from the hard drive takes a lot of time - espacially the part of local-premount.</b>
-Easy to fix! After booting the installed system for the first time, activate a swap partition (using the swapon command or via GParted on use your own method to enable swap). Right after having the swap activated, run <b>sudo update-initramfs -u</b>. The system should boot much quicker from now on.
+Easy to fix! After booting the installed system for the first time, activate a swap partition (using the swapon command or via GParted or use your own method to enable swap). Right after having the swap activated, run <b>sudo update-initramfs -u</b>. The system should boot much faster from now on.
 
 <b>On a tablet pc with a touch screen, I can't move to portrait mode</b>
 You should enable the service "iio-sensor-proxy". I also created a script called rotate-screen.sh that is useful to rotate the screen manually and also to transform the pointer device.
