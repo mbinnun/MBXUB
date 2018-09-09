@@ -3,7 +3,7 @@
 MBXUB is a linux distro by mbinnun that focuses on being super easy to remaster and based on Xubuntu (Ubuntu + XFCE desktop).
 
 The XFCE desktop is known in its lightweight graphics. Therefore, MBXUB will not take a lot of resources from your computer.
-On the other hand, Xubuntu is known to be a fully functional linux distro and a very popular one, what makes MBXUB very useful and gives her a familiar look.
+On the other hand, Xubuntu is known to be a fully functional linux distro and a very popular one, what makes MBXUB very useful and gives it a familiar look.
 
 You can get MBXUB here:<br>
 https://github.com/mbinnun/MBXUB/releases/tag/V1.0
