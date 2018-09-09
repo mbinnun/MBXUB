@@ -39,6 +39,7 @@ For 32bit computers: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbx
 <b>MBXUB TV/Streamer</b><br>
 Intended to run on a streamer and includes some media player such as VLC and KODI.<br>
 Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0.iso
+For 32bit streamers/computers: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0-32bit.iso
 
 <b>MBXUB VM</b><br>
 Intended to run virtual machines (even from the live system), and includes virtualzation software such as VirtualBox and VMware-Player.<br>
