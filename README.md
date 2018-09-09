@@ -33,13 +33,13 @@ After modifying the system in your hard drive - you can save it back as your own
 
 <b>MBXUB Basic</b><br>
 Useful as a rescue CD/USB and also good for starting a fresh remaster project.<br>
-Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-basic-en-v1.0.iso<br>
-For 32bit computers: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-basic-en-v1.0-32bit.iso
+Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-basic-en-v1.0.iso<br><br>
+For 32bit computers, use the following build: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-basic-en-v1.0-32bit.iso
 
 <b>MBXUB TV/Streamer</b><br>
 Intended to run on a streamer and includes some media player such as VLC and KODI.<br>
-Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0.iso
-For 32bit streamers/computers: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0-32bit.iso
+Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0.iso<br><br>
+For 32bit streamers/computers, use the following build: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-tvstreamer-en-v1.0-32bit.iso
 
 <b>MBXUB VM</b><br>
 Intended to run virtual machines (even from the live system), and includes virtualzation software such as VirtualBox and VMware-Player.<br>
