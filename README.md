@@ -47,7 +47,7 @@ Intended to run virtual machines (even from the live system), and includes virtu
 Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-vm-en-v1.0.iso
 
 <b>MBXUB DEV</b><br>
-Intended for programming and development. Includes a lot of programming apps and compilers, such as: Eclipse, FPC, NodeJS, Atom, Android Studio and much more.<br>
+Intended for programmers and developers. Includes a lot of programming apps and compilers, such as: Eclipse, FPC, NodeJS, Atom, Android Studio and much more.<br>
 Download link: https://drive.google.com/open?id=1ShploXSxLVDMKi_2rYhDea8ykWiSTogW<br>
 (The DEV version has been uploaded to Google Drive and not to GitHub because of its large size - about 3.8G)
 
