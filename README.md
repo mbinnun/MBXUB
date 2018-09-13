@@ -48,7 +48,7 @@ Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-vm-
 
 <b>MBXUB DEV</b><br>
 Intended for programming and development. Includes a lot of programming apps and compilers, such as: Eclipse, FPC, NodeJS, Atom, Android Studio and much more.<br>
-Download link: https://drive.google.com/open?id=1ShploXSxLVDMKi_2rYhDea8ykWiSTogW
+Download link: https://drive.google.com/open?id=1ShploXSxLVDMKi_2rYhDea8ykWiSTogW<br>
 (The DEV version has been uploaded to Google Drive and not to GitHub because of its large size - about 3.8G)
 
 # Known Issues
