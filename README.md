@@ -52,7 +52,7 @@ Download link: https://drive.google.com/open?id=1ShploXSxLVDMKi_2rYhDea8ykWiSTog
 (The DEV version has been uploaded to Google Drive and not to GitHub because of its large size - about 3.8G)
 
 <b>MBXUB SERVER</b><br>
-Intended for running a web server. Preinstalled server software: Apache2, Mysql 5.7, phpMyAdmin, WebMin, Postfix, Dovecot, Roundcube, Node.js with npm and yarn, MongoDB and Django. The server can be remote controlled by SSH or Webmin.<br>
+Intended for running a web server. Preinstalled server software: Apache2, Mysql 5.7, phpMyAdmin, WebMin, Postfix, Dovecot, Roundcube, Node.js with npm and yarn, MongoDB and Django. The server can be remote controlled by an SSH connection or by Webmin (using the browser).<br>
 Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-server-en-v1.0.iso
 
 # Known Issues
