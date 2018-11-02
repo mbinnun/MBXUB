@@ -29,7 +29,7 @@ After modifying the system in your hard drive - you can save it back as your own
 5. After the squashfs file has been generated, open the MBXUB ISO file with "isomaster" (or winISO if you're using windows). On the /casper directory, replace the original filesystem.squashfs file with the newly generated one and save the ISO.
 6. There you go, you should now have a new ISO file with a live system that behaves exacly as the modified installed system does.
 
-# MBXUB is coming in four "flavors"
+# MBXUB is coming in file "flavors"
 
 <b>MBXUB Basic</b><br>
 Useful as a rescue CD/USB and also good for starting a fresh remaster project.<br>
@@ -50,6 +50,10 @@ Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-vm-
 Intended for programmers and developers. Includes a lot of programming apps and compilers, such as: Eclipse, FPC, NodeJS, Atom, Android Studio and much more.<br>
 Download link: https://drive.google.com/open?id=1ShploXSxLVDMKi_2rYhDea8ykWiSTogW<br>
 (The DEV version has been uploaded to Google Drive and not to GitHub because of its large size - about 3.8G)
+
+<b>MBXUB SERVER</b><br>
+Intended for running a web server. Preinstalled server software: Apache2, Mysql 5.7, phpMyAdmin, WebMin, Postfix, Dovecot, Roundcube, Node.js with npm and yarn, MongoDB and Django. The server can be remote controlled by SSH or Webmin.<br>
+Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-server-en-v1.0.iso
 
 # Known Issues
 
