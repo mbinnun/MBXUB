@@ -60,6 +60,6 @@ Download link: https://github.com/mbinnun/MBXUB/releases/download/V1.0/mbxub-ser
 <b>After running the restore script, booting the system from the hard drive takes a lot of time - espacially the part of local-premount.</b><br>
 Easy to fix! After booting the installed system for the first time, activate a swap partition (using the swapon command or via GParted or use your own method to enable swap). Right after having the swap activated, run <b>sudo update-initramfs -u</b>. The system should boot much faster from now on.
 
-<b>On a tablet pc with a touch screen, I can't move to portrait mode</b><br>
-You should enable the service "iio-sensor-proxy". I also created a script called rotate-screen.sh that is useful to rotate the screen manually and also to transform the pointer device.
+<b>On a tablet pc with a touch screen, I can't move to portrait mode.</b><br>
+You should enable the service "iio-sensor-proxy". I also created a script called rotate-screen.sh that is useful to rotate the screen manually and also to transform the pointer device.<br>
 Download the script here: https://github.com/mbinnun/MBXUB/releases/download/V1.0/rotate-screen.sh
