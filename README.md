@@ -67,5 +67,5 @@ Download the script here: https://github.com/mbinnun/MBXUB/releases/download/V1.
 
 <b>MySQL and some features do not work correctly on a "restored" MBXUB-Server.</b><br>
 This happens because of the cleanup done after the restore.<br>
-Use the following script to restore directly from the SFS instead:<br>
+Use the following script to restore directly from the SFS instead of the regular "restore.sh":<br>
 https://raw.githubusercontent.com/mbinnun/MBXUB/master/restore-sfs.sh
