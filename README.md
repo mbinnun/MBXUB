@@ -63,3 +63,9 @@ Easy to fix! After booting the installed system for the first time, activate a s
 <b>On a tablet pc with a touch screen, I can't move to portrait mode.</b><br>
 You should enable the service "iio-sensor-proxy". I also created a script called rotate-screen.sh that is useful to rotate the screen manually and also to transform the pointer device.<br>
 Download the script here: https://github.com/mbinnun/MBXUB/releases/download/V1.0/rotate-screen.sh
+
+
+<b>MySQL and some features do not work correctly on a "restored" MBXUB-Server.</b><br>
+This happens because of the cleanup done after the restore.<br>
+Use the following script to restore directly from the SFS instead:<br>
+https://raw.githubusercontent.com/mbinnun/MBXUB/master/restore-sfs.sh
